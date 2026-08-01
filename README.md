@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm S. Rishi Nirmalkar</h1>
+<h1 align="center">Hi 👋, I'm Rishi Nirmalkar</h1>
 
 <h3 align="center">Computer Science Engineer | Project Management Enthusiast | AI & Software Developer</h3>
 
